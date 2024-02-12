@@ -42,11 +42,11 @@ Major: Translator
 
 ## Skills:
 Proficient in manual and automated testing methodologies \
-Strong understanding of QA processes and best practices \ 
-Experience with bug tracking systems (e.g., Jira, Bugzilla) \ 
-Basic knowledge of programming languages (Python, JavaScript) for test automation \ 
-Excellent communication and collaboration skills \ 
-Ability to work effectively in fast-paced Agile environments \
+Strong understanding of QA processes and best practices \
+Experience with bug tracking systems (e.g., Jira, Bugzilla) \
+Basic knowledge of programming languages (Python, JavaScript) for test automation \
+Excellent communication and collaboration skills \
+Ability to work effectively in fast-paced Agile environments
 
 ## Languages:
 
