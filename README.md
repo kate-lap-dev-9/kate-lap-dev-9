@@ -1,3 +1,7 @@
+# Kate Lap
+
+I'm Kate Lep. I'm a QA engineer from Belarus. I mainly specialize in manual testing of interfaces and APIs, but I'm currently actively studying automation. Hello to you :)
+
 - 👋 Hi, I’m @kate-lap-dev-9
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
