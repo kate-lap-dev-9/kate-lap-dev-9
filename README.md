@@ -37,7 +37,7 @@ Collaborated with developers and product managers to prioritize testing efforts 
 Participated in the design and implementation of test automation frameworks to increase testing efficiency and coverage.
 
 ## Education:
-Minsk State Linguistic University \ 
+Minsk State Linguistic University \
 Major: Translator
 
 ## Skills:
