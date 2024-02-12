@@ -3,9 +3,9 @@
 I'm Kate Lep. I'm a QA engineer from Belarus. I mainly specialize in manual testing of interfaces and APIs, but I'm currently actively studying automation. Hello to you :)
 
 Kate Lap
-Telegram: @katelapitskaya
-Phone: +375447137213
-Email: kate.lap.dev9@gmail.com
+Telegram: @katelapitskaya \
+Phone: +375447137213 \
+Email: kate.lap.dev9@gmail.com \
 Location: Belarus, Minsk
 
 ## Objective:
@@ -37,18 +37,18 @@ Collaborated with developers and product managers to prioritize testing efforts 
 Participated in the design and implementation of test automation frameworks to increase testing efficiency and coverage.
 
 ## Education:
-Minsk State Linguistic University
+Minsk State Linguistic University \ 
 Major: Translator
 
 ## Skills:
-Proficient in manual and automated testing methodologies
-Strong understanding of QA processes and best practices
-Experience with bug tracking systems (e.g., Jira, Bugzilla)
-Knowledge of programming languages (e.g., Python, Java) for test automation
-Excellent communication and collaboration skills
-Ability to work effectively in fast-paced Agile environments
+Proficient in manual and automated testing methodologies \
+Strong understanding of QA processes and best practices \ 
+Experience with bug tracking systems (e.g., Jira, Bugzilla) \ 
+Basic knowledge of programming languages (Python, JavaScript) for test automation \ 
+Excellent communication and collaboration skills \ 
+Ability to work effectively in fast-paced Agile environments \
 
 ## Languages:
 
-Fluent in English
+Fluent in English \
 Proficient in Russian
