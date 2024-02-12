@@ -2,7 +2,6 @@
 
 I'm Kate Lep. I'm a QA engineer from Belarus. I mainly specialize in manual testing of interfaces and APIs, but I'm currently actively studying automation. Hello to you :)
 
-Kate Lap
 Telegram: @katelapitskaya \
 Phone: +375447137213 \
 Email: kate.lap.dev9@gmail.com \
