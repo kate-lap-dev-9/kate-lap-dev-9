@@ -10,6 +10,25 @@ Location: Belarus, Minsk
 ## Objective:
 Dedicated and detail-oriented Middle QA Engineer with over six years of experience in ensuring the quality and functionality of software products. Proficient in various testing methodologies and tools, with a proven track record of delivering high-quality results.
 
+## Skills:
+- Proficient in manual and automated testing methodologies
+- Strong understanding of QA processes and best practices
+- Experience with bug tracking systems such as Jira and Zephyr
+- Skilled in test management tools: Wrike, Trello, Asana
+- Familiarity with continuous integration and continuous deployment tools: Jenkins, Travis CI, Git
+- Proficient in test automation frameworks and tools:
+  - Selenium
+  - JUnit
+  - TestNG
+  - Appium
+  - Espresso
+- Experience with performance testing tools:
+  - LoadRunner
+  - Apache JMeter
+- Knowledge of cloud-based testing platforms:
+  - BrowserStack
+  - Sauce Labs
+
 ## Professional Experience:
 
 ### Plan 9 (Present)
@@ -38,14 +57,6 @@ Participated in the design and implementation of test automation frameworks to i
 ## Education:
 Minsk State Linguistic University \
 Major: Translator
-
-## Skills:
-Proficient in manual and automated testing methodologies \
-Strong understanding of QA processes and best practices \
-Experience with bug tracking systems (e.g., Jira, Bugzilla) \
-Basic knowledge of programming languages (Python, JavaScript) for test automation \
-Excellent communication and collaboration skills \
-Ability to work effectively in fast-paced Agile environments
 
 ## Languages:
 
